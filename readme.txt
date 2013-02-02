@@ -3,7 +3,7 @@ Contributors: Ash Breeze
 Tags: Lytebox, lytebox 
 Requires at least: 2.0.2
 Tested up to: 3.5
-Stable tag: 3.5
+Stable tag: 5.5.1
 
 A tool that can dynamicly load image and html content in a lytebox. Just add a rel of lyteframe to a html link to open it in a lytebox. Add a lytebox rel to a image link to open the image in a lytebox.
 
@@ -45,6 +45,9 @@ The following browsers have been tested with this script:
 = 5.5 =
 * More bug fixes
 * Updates
+
+= 5.5.1 
+* Fixed a bug that was not display the images properly
 
 
 

@@ -3,7 +3,7 @@
 Plugin Name: Lytebox	
 Plugin URI: http://www.dolem.com/lytebox/
 Description: A tool that can dynamicly load image and html content in a lytebox. Just add a rel of lyteframe to a html	 link to open it in a lytebox. Add a lytebox rel to a image link to open the image in a lytebox.
-Version: 5.5
+Version: 5.5.1
 */
 $myJsUrl = WP_PLUGIN_URL . '/lytebox/lytebox.js';
 $myJsFile = WP_PLUGIN_DIR . '/lytebox/lytebox.js';
