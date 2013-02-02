@@ -46,7 +46,7 @@ The following browsers have been tested with this script:
 * More bug fixes
 * Updates
 
-= 5.5.1 
+= 5.5.1 =
 * Fixed a bug that was not display the images properly
 
 
